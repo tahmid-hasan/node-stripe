@@ -1,0 +1,17 @@
+{
+  "name": "codeseller",
+  "version": "1.0.0",
+  "description": "Web app to sell ready made projects",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Tahmid Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "stripe": "^5.8.0"
+  }
+}
